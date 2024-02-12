@@ -1,0 +1,26 @@
+main:
+  cache: ./data
+  date: "2024-01-01"
+  max_tries: 2
+
+config1:
+  mode: "events"
+  location: 2
+  genres: ["trance"]
+  date_from: "2024-01-01"
+  date_to: "2024-01-02"
+  nb_events: 20
+
+config2:
+  mode: "events"
+  location: 2
+  genres: ["techno", "house"]
+  date_from: "2024-01-01"
+  date_to: null
+  nb_events: 20
+
+config3:
+  mode: "locations"
+
+config4:
+  mode: "genres"

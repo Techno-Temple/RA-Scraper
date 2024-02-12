@@ -1,0 +1,15 @@
+MAIN = "main"
+CACHE = "cache"
+DATE = "date"
+
+EVENTS = "events"
+LOCATIONS = "locations"
+GENRES = "genres"
+
+MAX_TRIES = "max_tries"
+AREA_ID = "location"
+DATE_FROM = "date_from"
+DATE_TO = "date_to"
+GENRES = "genres"
+NB_EVENTS = "nb_events"
+MODE = "mode"
